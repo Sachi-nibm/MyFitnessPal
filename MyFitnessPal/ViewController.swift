@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  MyFitnessPal
 //
-//  Created by Mino Fdo on 2023-05-09.
+//  Created by Sachini Perera on 2023-05-09.
 //
 
 import UIKit
